@@ -199,8 +199,10 @@ See the [LICENSE](LICENSE) file for licensing information.
 
 <div align="center">
 
-## Cybernetic Biological Initiative
+### Cybernetic Biological Initiative
 
 **Engineering Tomorrow, One Prototype at a Time.**
+
+© 2026 Cybernetic Biological Initiative
 
 </div>
