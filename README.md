@@ -1,7 +1,8 @@
 # AI Exosuit MK-7
 
 ### Next-Generation AI-Powered Wearable Platform
-`AI` • `Exosuit` • `Wearable Robotics` • `Embedded Systems` • `Digital Twin` • `Cybernetic Biological Initiative` Developed under the **Cybernetic Biological Initiative (CBI)**
+`AI` • `Exosuit` • `Wearable Robotics` • `Embedded Systems` • `Digital Twin` • `Cybernetic Biological Initiative` 
+> Developed under the **Cybernetic Biological Initiative (CBI)**
 
 <div align="center">
 
