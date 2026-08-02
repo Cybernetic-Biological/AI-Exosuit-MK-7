@@ -1,87 +1,84 @@
-# AI-Exosuit-MK-7---Next-Generation-AI-Powered-Wearable-Platform
-Open research in AI, robotics, cybernetics, embedded systems, digital twins, and human-machine technologies.
+# AI Exosuit MK-7
 
+### Next-Generation AI-Powered Wearable Platform
+
+> A flagship research platform developed under the **Cybernetic Biological Initiative (CBI)**.
 
 <div align="center">
 
-# Cybernetic Biological Initiative
-
-### Engineering the Future of Human–Machine Systems
-
-*Open research • Robotics • AI • Embedded Systems • Digital Twins • Cybersecurity • Bioengineering Concepts*
-
----
-
 <p align="center">
-  <img src="assests/ChatGPT Image Aug 1, 2026, 08_11_54 PM.png" width="100%">
+  <img src="assets/banner.png" width="100%" alt="AI Exosuit MK-7 Banner">
 </p>
-
----
 
 ![Status](https://img.shields.io/badge/Status-Active-00C853)
 ![Research](https://img.shields.io/badge/Research-Experimental-2979FF)
-![License](https://img.shields.io/badge/License-MIT-orange)
+![License](https://img.shields.io/badge/License-Custom-orange)
 ![Platform](https://img.shields.io/badge/Platform-Cross--Platform-blue)
 
 </div>
 
 ---
 
-# Mission
+# Overview
 
-The **Cybernetic Biological Initiative (CBI)** is an open engineering initiative focused on exploring the intersection of artificial intelligence, robotics, embedded systems, cybernetics, visualization, digital twins, wearable technologies, and experimental human-machine interfaces.
+The **AI Exosuit MK-7** is a next-generation modular wearable platform designed to explore the convergence of robotics, artificial intelligence, cybernetics, embedded systems, and digital engineering.
 
-The organization serves as a collection of long-term research projects, software platforms, hardware prototypes, concept designs, and educational resources that investigate future engineering possibilities through open development.
+Developed as part of the **Cybernetic Biological Initiative (CBI)**, this repository documents the ongoing research, concept artwork, engineering references, software, embedded hardware, and future development of the MK-7 platform.
 
-Our goal is to build modular technologies that demonstrate engineering concepts while encouraging collaboration, learning, and responsible innovation.
-
----
-
-# Core Research Areas
-
-- AI Exosuits
-- Robotics & Mechatronics
-- Cyber-Bio Systems
-- Embedded Security
-- ESP32 Development
-- AI Assistants
-- Unreal Engine Visualization
-- Digital Twins
-- Human-Machine Interfaces
-- Sensor Fusion
-- Computer Vision
-- Spatial Computing
-- Cybersecurity
-- Digital Forensics
-- Environmental Monitoring
-- Scientific Visualization
+The project is intended as a long-term engineering portfolio that combines technical documentation with software development, visualization, and experimental design concepts.
 
 ---
 
-# Featured Projects
+# Documentation
 
-| Project | Description |
+| Document | Description |
 |----------|-------------|
-| AI Exosuit MK-7 | Modular wearable cybernetic platform |
-| Cyber-Bio OS | Unified operating environment |
-| CyberShield | Embedded security and forensic kernel |
-| BioWearable Neural Core | Wearable biosignal research platform |
-| Cyber-Bio Research Facility | Digital twin research environment |
-| Cyber-Bio Forensic Platform | Evidence collection and visualization |
+| 📘 [Engineering Design Bible](docs/AI_Exosuit_MK7_Design_Bible_v0.1.pdf) | Official MK-7 design reference |
+| 🗺 Roadmap | Planned development milestones |
+| 📐 Specifications | Technical overview |
+| 🧱 Materials | Construction standards |
+
+---
+
+# Current Project Status
+
+## Phase 1 — Foundation ✅
+
+- [x] Repository Created
+- [x] Engineering Design Bible
+- [x] Branding
+- [x] Banner
+- [x] Shield
+- [x] Logo
+
+## Phase 2 — In Progress
+
+- [ ] MK-7 Alpha
+- [ ] MK-7 Sigma
+- [ ] Engineering Turnaround
+- [ ] Exploded Assembly
+- [ ] Material Library
+
+## Future Development
+
+- Unreal Engine Integration
+- Character Customization
+- Equipment Modules
+- AI Mech Suit MK-8
 
 ---
 
 # Engineering Philosophy
 
-Our projects follow a common design philosophy:
+The AI Exosuit MK-7 follows a consistent engineering philosophy centered on:
 
-- Modular
-- Open Architecture
-- Human-Centered
-- AI Assisted
+- Human-Centered Design
+- Modular Architecture
+- AI Assisted Systems
+- Lightweight Construction
+- Expandable Components
+- Digital Twin Integration
 - Secure by Design
-- Visualization Driven
-- Hardware + Software Integration
 - Long-Term Maintainability
 
 ---
@@ -94,8 +91,8 @@ Our projects follow a common design philosophy:
 - Python
 - HTML
 - JavaScript
-- ESP-IDF
 - Arduino
+- ESP-IDF
 - Unreal Engine
 - Blender
 
@@ -103,65 +100,72 @@ Our projects follow a common design philosophy:
 
 - ESP32
 - ESP32-S3
-- Radxa
-- Raspberry Pi
-- NVIDIA Platforms
-- AMD Platforms
-- Sensor Networks
+- Embedded Sensors
+- AI Accelerators
+- Modular Electronics
 
 ---
 
 # Repository Structure
 
-```
-Cybernetic Biological Initiative
+```text
+AI-Exosuit-MK-7/
 │
-├── AI Exosuit MK-7
-├── AI Mech Suit MK-8
-├── Cyber-Bio OS
-├── CyberShield
-├── BioWearable Neural Core
-├── Cyber-Bio Research Facility
-├── Digital Twin Systems
-├── Unreal Assets
-└── Documentation
+├── assets/
+│   ├── banner.png
+│   ├── thumbnail.png
+│   ├── logo.png
+│   └── shield.png
+│
+├── docs/
+│   ├── AI_Exosuit_MK7_Design_Bible_v0.1.pdf
+│   ├── roadmap.md
+│   ├── specifications.md
+│   └── materials.md
+│
+├── concept-art/
+├── models/
+├── unreal/
+├── source/
+├── README.md
+├── LICENSE
+├── CONTRIBUTING.md
+└── CODE_OF_CONDUCT.md
 ```
 
 ---
 
-# Vision
+# About the Cybernetic Biological Initiative
 
-The long-term objective of CBI is to develop an interconnected ecosystem of experimental technologies that bridge embedded hardware, AI, simulation, robotics, visualization, and digital engineering.
+The **Cybernetic Biological Initiative (CBI)** is an engineering initiative dedicated to researching and developing technologies that bridge artificial intelligence, robotics, embedded systems, wearable platforms, digital twins, and human-machine interaction.
 
-Every repository contributes toward a larger modular platform where components can be studied independently or integrated into larger systems.
+The AI Exosuit MK-7 is one of several long-term projects within the CBI ecosystem.
 
 ---
 
 # Disclaimer
 
-This organization is intended for educational, research, visualization, simulation, and software engineering purposes.
+This repository is intended for educational, research, visualization, software engineering, and concept development purposes.
 
-Concept artwork, fictional systems, and speculative designs are presented to communicate engineering ideas and inspire discussion. They should not be interpreted as descriptions of existing products or operational systems.
+Concept artwork, fictional technologies, and speculative engineering designs are presented to communicate ideas and inspire discussion. They should not be interpreted as descriptions of existing commercial products or operational systems.
 
 ---
 
 # Contributing
 
-Community feedback, issue reports, documentation improvements, and constructive collaboration are always welcome.
+This project is currently maintained by the Cybernetic Biological Initiative.
+
+Constructive feedback, issue reports, and documentation improvements are welcome.
+
+Please open an Issue before proposing significant changes so ideas can be discussed before implementation.
 
 ---
 
-<div align="center">
+# License
 
-**Cybernetic Biological Initiative**
+This repository is distributed under a custom license.
 
-*Engineering Tomorrow, One Prototype at a Time.*
-
-</div>
-
-## License
-
-This repository is distributed under a custom license. Please see the [LICENSE](LICENSE) file for usage terms and permissions.
+Please read the [LICENSE](LICENSE) file before using, modifying, or redistributing any portion of this repository.
 
 ---
 
@@ -173,4 +177,14 @@ All rights reserved unless otherwise specified.
 
 This repository contains original software, documentation, artwork, engineering concepts, and design assets developed as part of the Cybernetic Biological Initiative.
 
-See the LICENSE file for additional information.
+See the LICENSE file for licensing information.
+
+---
+
+<div align="center">
+
+**Cybernetic Biological Initiative**
+
+*Engineering Tomorrow, One Prototype at a Time.*
+
+</div>
