@@ -13,7 +13,7 @@ Open research in AI, robotics, cybernetics, embedded systems, digital twins, and
 ---
 
 <p align="center">
-  <img src="docs/images/banner.png" width="100%">
+  <img src="assests/ChatGPT Image Aug 1, 2026, 08_11_54 PM.png" width="100%">
 </p>
 
 ---
