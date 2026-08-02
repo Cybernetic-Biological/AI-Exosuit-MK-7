@@ -7,7 +7,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="<assests/ChatGPT Image Aug 1, 2026, 08_11_54 PM.png>" width="100%" alt="AI Exosuit MK-7 Banner">
+  <img src="assests/ChatGPT Image Aug 1, 2026, 08_11_54 PM.png" width="100%" alt="AI Exosuit MK-7 Banner">
 </p>
 
 ![Status](https://img.shields.io/badge/Status-Active-00C853)
