@@ -158,3 +158,17 @@ Community feedback, issue reports, documentation improvements, and constructive 
 *Engineering Tomorrow, One Prototype at a Time.*
 
 </div>
+
+
+
+---
+
+## Copyright
+
+Copyright © 2026 Cybernetic Biological Initiative.
+
+All rights reserved unless otherwise specified.
+
+This repository contains original software, documentation, artwork, engineering concepts, and design assets developed as part of the Cybernetic Biological Initiative.
+
+See the LICENSE file for additional information.
