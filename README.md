@@ -159,7 +159,9 @@ Community feedback, issue reports, documentation improvements, and constructive 
 
 </div>
 
+## License
 
+This repository is distributed under a custom license. Please see the [LICENSE](LICENSE) file for usage terms and permissions.
 
 ---
 
